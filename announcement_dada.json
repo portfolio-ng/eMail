@@ -1,0 +1,45 @@
+{
+  "imgs": {
+    "banners": [
+      "ph_banner_0.png",
+      "ph_banner_1.png"
+    ],
+    "img_fn":[
+      "/img/ph_img_0.png",
+      "/img/ph_img_1.png",
+      "/img/ph_img_2.png",
+      "/img/ph_img_3.png",
+      "/img/ph_img_4.png",
+      "/img/ph_img_5.png"
+    ],
+    "img_txt": [
+        "img_0 text",
+        "img_1 text",
+        "img_2 text",
+        "img_3 text",
+        "img_4 text",
+        "img_5 text"
+      ]
+  },
+  "announcement": {
+    "title": "Announcement Title",
+    "desc": "Full text of the announcement.",
+    "summ": "Brief summary of announcement.",
+    "notif": "Notification Text for announcement.",
+    "info_list": [
+      "Annoucemnet list item 0",
+      "Annoucemnet list item 1",
+      "Annoucemnet list item 2"
+    ]
+  },
+  "calendar_title":"Calendar Of Events",
+  "calendar_desc":"Text describing the events calendar",
+  "company": {
+      "name":"Company Name",
+      "phone":"Company Phone",
+      "addr": {
+        "street":"17 This St",
+        "csz": "SF,CA 94102"
+      } 
+  }
+}
